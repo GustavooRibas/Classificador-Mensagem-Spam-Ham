@@ -7,4 +7,4 @@ Esta aplicação utiliza um modelo de Machine Learning (Naive Bayes com Vectoriz
 - [*Gustavo Rodrigues Ribeiro*](https://github.com/GustavooRibas)
 
 ## Contato
-gustavooriibeiro.ofc@hotmail.com
+- E-mail: gustavooriibeiro.ofc@hotmail.com
